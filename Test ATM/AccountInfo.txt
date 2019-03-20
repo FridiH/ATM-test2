@@ -1,0 +1,5 @@
+12345, Person, A,198745
+23456, Andy, Strauss, 1000
+34567, Emi, Gerhardt, 99999999999999999999999999999999999
+45678, Andrea, Rau, 100000
+123456, Robert, Eerenstein, 1
